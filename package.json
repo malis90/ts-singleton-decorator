@@ -1,5 +1,5 @@
 {
-  "name": "ts-singleton-dactorator",
+  "name": "ts-singleton-decorator",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
