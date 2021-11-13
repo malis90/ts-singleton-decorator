@@ -1,4 +1,4 @@
-import { SingletonClass } from "./../src";
+import { SingletonClass } from "ts-singleton-dactorator";
 
 let objetsCounter = 0;
 
