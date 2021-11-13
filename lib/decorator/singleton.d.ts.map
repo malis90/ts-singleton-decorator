@@ -1,0 +1,1 @@
+{"version":3,"file":"singleton.d.ts","sourceRoot":"","sources":["../../src/decorator/singleton.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,qBAAqB;IACpC,WAAW,EAAE,OAAO,CAAC;CACtB;AAED,wBAAgB,cAAc,CAAC,OAAO,CAAC,EAAE,qBAAqB,iBAEvC,GAAG,SAwBzB"}

@@ -1,0 +1,29 @@
+{
+  "name": "ts-singleton-dactorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://malis90@github.com/malis90/ts-singleton-dactorator.git"
+  },
+  "author": "Muhammad Ali Shahzad <brightali90@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malis90/ts-singleton-dactorator/issues"
+  },
+  "homepage": "https://github.com/malis90/ts-singleton-dactorator#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "keywords": [
+    "typescript",
+    "singleton",
+    "singleton dacorator",
+    "typescript decorator"
+  ]
+}
