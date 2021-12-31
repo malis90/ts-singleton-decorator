@@ -1,6 +1,6 @@
 {
   "name": "ts-singleton-decorator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "types": "lib",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://malis90@github.com/malis90/ts-singleton-dactorator.git"
+    "url": "git+https://malis90@github.com/malis90/ts-singleton-decorator.git"
   },
   "author": "Muhammad Ali Shahzad <brightali90@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/malis90/ts-singleton-dactorator/issues"
+    "url": "https://github.com/malis90/ts-singleton-decorator/issues"
   },
-  "homepage": "https://github.com/malis90/ts-singleton-dactorator#readme",
+  "homepage": "https://github.com/malis90/ts-singleton-decorator#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
   },
